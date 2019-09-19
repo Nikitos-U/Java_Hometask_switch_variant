@@ -1,0 +1,7 @@
+Trade: {
+
+    type=COMMODITY_SPOT
+
+    price=10
+
+}
